@@ -1,0 +1,3 @@
+Recurrent Neural Networks (RNNs), a class of neural networks that are popularly used on text inputs. RNNs are very flexible and have been used to solve problems such as speech recognition, language modeling, machine translation, sentiment analysis, and image captioning, to name a few. RNNs exploit the sequential nature of their input. 
+Sequential inputs could be text, speech, time series, and anything else where the occurrence of an element in a sequence is dependent on the elements that came before it.
+In this chapter, we will see examples of various RNNs, and learn how to implement them with TensorFlow 2.0.
